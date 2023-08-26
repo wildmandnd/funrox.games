@@ -1,5 +1,10 @@
 facebook.com, 266094906170961, RESELLER, c3e20eee3f780d68
 google.com, pub-8678405122826004, DIRECT, f08c47fec0942fa0
+bidmachine.io, 162, RESELLER
+pubmatic.com, 157559, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 18364, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 2464975885, RESELLER
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
 adelement.com, 30167, RESELLER
